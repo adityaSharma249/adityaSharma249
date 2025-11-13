@@ -1,4 +1,25 @@
-👋
+
+
+👋 Hey there! I'm [Aditya Sharma]
+🎓 I'm a 2rd-year Engineering Student passionate about building, breaking, and fixing things through code and creativity.
+
+💡 I enjoy working on software development, problem-solving, and exploring new technologies.
+🚀 Currently learning and experimenting with:
+
+💻 C / C++ / Python / JavaScript
+
+🌐 Web Development (HTML, CSS, React, Node.js)
+
+🤖 Machine Learning & Data Science (Python, Pandas, NumPy, scikit-learn)
+
+⚙️ Version Control (Git & GitHub)
+
+☁️ Cloud Basics (AWS / Firebase)
+
+📚 I'm always learning — currently improving my DSA, backend skills, and open-source contributions.
+💬 I love collaborating on innovative projects and sharing ideas with other developers.
+
+📫 Reach me at: [adsh9277@gmail.com]
 
 
 ## 🌐 Socials:
