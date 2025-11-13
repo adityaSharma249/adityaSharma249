@@ -3,7 +3,7 @@
 👋 Hey there! I'm [Aditya Sharma]
 🎓 I'm a 2rd-year Engineering Student passionate about building, breaking, and fixing things through code and creativity.
 
-💡 I enjoy working on software development, problem-solving, and exploring new technologies.
+💡 I enjoy working on  development, problem-solving, and exploring new technologies.
 🚀 Currently learning and experimenting with:
 
 💻 C / C++ / Python / JavaScript
