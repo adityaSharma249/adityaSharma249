@@ -6,7 +6,7 @@
 💡 I enjoy working on  development, problem-solving, and exploring new technologies.
 🚀 Currently learning and experimenting with:
 
-💻 C / C++ / Python / JavaScript
+💻 C / C++ / java / JavaScript
 
 🌐 Web Development (HTML, CSS, React, Node.js)
 
